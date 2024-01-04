@@ -6,3 +6,7 @@ while i <= 5:
         j = j + 1
     print()  
     i = i + 1
+    # table
+    x=int(input("enter no :"))
+    for y in range(1,11):
+        print(x*y)
