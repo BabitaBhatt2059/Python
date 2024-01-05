@@ -13,3 +13,6 @@ for i in name:
     "a"in"kapil"
     "a"is not"kapil"
 # comparision operator
+    # string slicing
+    a="Hello World"
+    print(a[4:-2])
