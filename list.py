@@ -6,3 +6,6 @@ print(a[1])
 # for delete
 del(a[1])
 print(a)
+# traversal
+for i in a:
+    print(i)
